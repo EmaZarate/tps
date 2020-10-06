@@ -1,0 +1,1745 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Producto 1",
+            "img": "assets/9deoro.png",
+            "hasStock": true,
+            "category": {
+                "id": 1,
+                "name": "Categoria 1"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 3x3",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 80.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Packing 2",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 100.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Unidad",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 120.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 12 x 8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 140.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Producto 2",
+            "img": "assets/cachafaz.png",
+            "hasStock": true,
+            "category": {
+                "id": 1,
+                "name": "Categoria 1"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 8x6",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 140.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 12x8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 120.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Paquete",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 180.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Pack",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 200.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Producto 3",
+            "img": "assets/frutigran.png",
+            "hasStock": true,
+            "category": {
+                "id": 2,
+                "name": "Categoria 2"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 3x3",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 20.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Packing 2",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 40.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Unidad",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 60.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 12 x 8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 80.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Producto 4",
+            "img": "assets/oreo.png",
+            "hasStock": false,
+            "category": {
+                "id": 1,
+                "name": "Categoria 2"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 8x6",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 130.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 12x8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 120.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Paquete",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 140.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Pack",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 150.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Producto 5",
+            "img": "assets/rex.png",
+            "hasStock": true,
+            "category": {
+                "id": 3,
+                "name": "Categoria 3"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 3x3",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 200.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Packing 2",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 220.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Unidad",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 240.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 12 x 8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 260.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Producto 6",
+            "img": "assets/9deoro.png",
+            "hasStock": true,
+            "category": {
+                "id": 3,
+                "name": "Categoria 3"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 8x6",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 30.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 12x8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 300.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Paquete",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 350.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Pack",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 220.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Producto 7",
+            "img": "assets/cachafaz.png",
+            "hasStock": true,
+            "category": {
+                "id": 4,
+                "name": "Categoria 4"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 3x3",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 140.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Packing 2",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 110.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Unidad",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 180.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 12 x 8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 100.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Producto 8",
+            "img": "assets/frutigran.png",
+            "hasStock": false,
+            "category": {
+                "id": 1,
+                "name": "Categoria 1"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 8x6",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 180.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 12x8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 200.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Paquete",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 280.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Pack",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 290.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Producto 9",
+            "img": "assets/merengadas.png",
+            "hasStock": true,
+            "category": {
+                "id": 2,
+                "name": "Categoria 2"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 3x3",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 120.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Packing 2",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 110.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Unidad",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 130.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 12 x 8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 150.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Producto 10",
+            "img": "assets/oreo.png",
+            "hasStock": true,
+            "category": {
+                "id": 3,
+                "name": "Categoria 3"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 8x6",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 180.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 12x8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 400.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Paquete",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 450.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Pack",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 430.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Producto 11",
+            "img": "assets/rex.png",
+            "hasStock": true,
+            "category": {
+                "id": 4,
+                "name": "Categoria 4"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 3x3",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 380.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Packing 2",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 360.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Unidad",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 600.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 12 x 8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 150.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Producto 12",
+            "img": "assets/9deoro.png",
+            "hasStock": true,
+            "category": {
+                "id": 2,
+                "name": "Categoria 2"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 8x6",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 170.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 12x8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 130.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Paquete",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 190.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Pack",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 200.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Producto 13",
+            "img": "assets/merengadas.png",
+            "hasStock": true,
+            "category": {
+                "id": 4,
+                "name": "Categoria 4"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 3x3",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 350.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Packing 2",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 320.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Unidad",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 310.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 12 x 8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 330.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Producto 14",
+            "img": "assets/cachafaz.png",
+            "hasStock": false,
+            "category": {
+                "id": 2,
+                "name": "Categoria 2"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 8x6",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 380.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 12x8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 400.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Paquete",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 410.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Pack",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 420.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Producto 15",
+            "img": "assets/oreo.png",
+            "hasStock": true,
+            "category": {
+                "id": 1,
+                "name": "Categoria 1"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 3x3",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 800.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Packing 2",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 750.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Unidad",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 600.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 12 x 8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 850.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Producto 16",
+            "img": "assets/frutigran.png",
+            "hasStock": true,
+            "category": {
+                "id": 3,
+                "name": "Categoria 3"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 8x6",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 360.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 12x8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 400.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Paquete",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 450.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Pack",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 460.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Producto 17",
+            "img": "assets/rex.png",
+            "hasStock": true,
+            "category": {
+                "id": 2,
+                "name": "Categoria 2"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 3x3",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 380.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Packing 2",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 400.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Unidad",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 420.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 12 x 8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 410.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Producto 18",
+            "img": "assets/cachafaz.png",
+            "hasStock": true,
+            "category": {
+                "id": 5,
+                "name": "Categoria 5"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 8x6",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 100.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 12x8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 90.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Paquete",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 50.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Pack",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 120.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Producto 19",
+            "img": "assets/merengadas.png",
+            "hasStock": true,
+            "category": {
+                "id": 5,
+                "name": "Categoria 5"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 3x3",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 350.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Packing 2",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 380.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Unidad",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 310.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 12 x 8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 340.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Producto 20",
+            "img": "assets/rex.png",
+            "hasStock": true,
+            "category": {
+                "id": 5,
+                "name": "Categoria 5"
+            },
+            "packing": [
+                {
+                    "id": 1,
+                    "name": "Caja 8x6",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 110.0
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 12x8",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 150.0
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Paquete",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 140.0
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Pack",
+                    "priceList": [
+                        {
+                            "id": 1,
+                            "code": "CODE1",
+                            "price": 130.0
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Almacen"
+        },
+        {
+            "id": 2,
+            "name": "Bebidas"
+        },
+        {
+            "id": 3,
+            "name": "Limpieza"
+        },
+        {
+            "id": 4,
+            "name": "Congelados"
+        },
+        {
+            "id": 5,
+            "name": "Frescos"
+        },
+        {
+            "id": 6,
+            "name": "Perfumeria"
+        }
+    ],
+    "paymentOption": [
+        {
+            "id": 1,
+            "name": "Pago total",
+            "percent": 100
+        },
+        {
+            "id": 2,
+            "name": "Pago de seña",
+            "percent": 10
+        },
+        {
+            "id": 3,
+            "name": "Dos cuotas",
+            "percent": 50
+        }
+    ],
+    "shipmentOption": [
+        {
+            "id": 1,
+            "name": "Retiro en sucursal",
+            "applyDiscount": true,
+            "percent": 90
+        },
+        {
+            "id": 2,
+            "name": "Envío directo",
+            "applyDiscount": false,
+            "percent": 100
+        },
+        {
+            "id": 3,
+            "name": "Envío urgente",
+            "applyDiscount": true,
+            "percent": 110
+        }
+    ],
+    "customer": [
+        {
+            "id": 1,
+            "username": "user1@andina.com",
+            "password": "user1",
+            "bussinesName": "Razón Social 1",
+            "img": "assets/9deoro.png",
+            "branches": [
+                {
+                    "id": 1,
+                    "name": "Sucursal Carcarañá",
+                    "address": "Sarmiento 1800",
+                    "city": "Carcarañá",
+                    "province": "Santa Fe",
+                    "orders": [
+                        {
+                            "id": 45012,
+                            "total": 12500.0,
+                            "paymentOption": {
+                                "id": 1,
+                                "name": "Pago total",
+                                "percent": 100
+                            },
+                            "shipmentOption": {
+                                "id": 3,
+                                "name": "Envío urgente",
+                                "applyDiscount": true,
+                                "percent": 110
+                            },
+                            "stateOrder": {
+                                "id": 1,
+                                "name": "En proceso"
+                            },
+                            "branch": {
+                                "id": 1,
+                                "name": "Sucursal Carcarañá",
+                                "address": "Sarmiento 1800",
+                                "city": "Carcarañá",
+                                "province": "Santa Fe"
+                            },
+                            "itemOrders": [
+                                {
+                                    "quantity": 3,
+                                    "subtotal": 800.0,
+                                    "unitSale": {
+                                        "id": 1,
+                                        "name": "Caja 12 x 8",
+                                        "product": {
+                                            "id": 20,
+                                            "name": "Producto 20",
+                                            "img": "assets/9deoro.png",
+                                            "hasStock": true,
+                                            "category": {
+                                                "id": 5,
+                                                "name": "Categoria 5"
+                                            }
+                                        },
+                                        "priceList": [
+                                            {
+                                                "id": 1,
+                                                "code": "CODE1",
+                                                "price": 50.0
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "quantity": 10,
+                                    "subtotal": 8500.0,
+                                    "unitSale": {
+                                        "id": 2,
+                                        "name": "Caja 6x6",
+                                        "product": {
+                                            "id": 19,
+                                            "name": "Producto 19",
+                                            "img": "assets/9deoro.png",
+                                            "hasStock": true,
+                                            "category": {
+                                                "id": 4,
+                                                "name": "Categoria 4"
+                                            }
+                                        },
+                                        "priceList": [
+                                            {
+                                                "id": 1,
+                                                "code": "CODE1",
+                                                "price": 30.0
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": 38125,
+                            "total": 7800.0,
+                            "paymentOption": {
+                                "id": 1,
+                                "name": "Pago total",
+                                "percent": 100
+                            },
+                            "shipmentOption": {
+                                "id": 2,
+                                "name": "Envío directo",
+                                "applyDiscount": false,
+                                "percent": 100
+                            },
+                            "stateOrder": {
+                                "id": 1,
+                                "name": "En proceso"
+                            },
+                            "branch": {
+                                "id": 1,
+                                "name": "Sucursal Carcarañá",
+                                "address": "Sarmiento 1800",
+                                "city": "Carcarañá",
+                                "province": "Santa Fe"
+                            },
+                            "itemOrders": [
+                                {
+                                    "quantity": 3,
+                                    "subtotal": 800.0,
+                                    "unitSale": {
+                                        "id": 1,
+                                        "name": "Caja 12 x 8",
+                                        "product": {
+                                            "id": 20,
+                                            "name": "Producto 20",
+                                            "img": "assets/9deoro.png",
+                                            "hasStock": true,
+                                            "category": {
+                                                "id": 5,
+                                                "name": "Categoria 5"
+                                            }
+                                        },
+                                        "priceList": [
+                                            {
+                                                "id": 1,
+                                                "code": "CODE1",
+                                                "price": 50.0
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "quantity": 10,
+                                    "subtotal": 8500.0,
+                                    "unitSale": {
+                                        "id": 2,
+                                        "name": "Caja 6x6",
+                                        "product": {
+                                            "id": 19,
+                                            "name": "Producto 19",
+                                            "img": "assets/9deoro.png",
+                                            "hasStock": true,
+                                            "category": {
+                                                "id": 4,
+                                                "name": "Categoria 4"
+                                            }
+                                        },
+                                        "priceList": [
+                                            {
+                                                "id": 1,
+                                                "code": "CODE1",
+                                                "price": 30.0
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "id": 45212,
+                            "total": 8300.0,
+                            "paymentOption": {
+                                "id": 1,
+                                "name": "Pago total",
+                                "percent": 100
+                            },
+                            "shipmentOption": {
+                                "id": 2,
+                                "name": "Envío directo",
+                                "applyDiscount": false,
+                                "percent": 100
+                            },
+                            "stateOrder": {
+                                "id": 1,
+                                "name": "En proceso"
+                            },
+                            "branch": {
+                                "id": 1,
+                                "name": "Sucursal Carcarañá",
+                                "address": "Sarmiento 1800",
+                                "city": "Carcarañá",
+                                "province": "Santa Fe"
+                            },
+                            "itemOrders": [
+                                {
+                                    "quantity": 3,
+                                    "subtotal": 800.0,
+                                    "unitSale": {
+                                        "id": 1,
+                                        "name": "Caja 12 x 8",
+                                        "product": {
+                                            "id": 20,
+                                            "name": "Producto 20",
+                                            "img": "assets/9deoro.png",
+                                            "hasStock": true,
+                                            "category": {
+                                                "id": 5,
+                                                "name": "Categoria 5"
+                                            }
+                                        },
+                                        "priceList": [
+                                            {
+                                                "id": 1,
+                                                "code": "CODE1",
+                                                "price": 50.0
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "quantity": 10,
+                                    "subtotal": 8500.0,
+                                    "unitSale": {
+                                        "id": 2,
+                                        "name": "Caja 6x6",
+                                        "product": {
+                                            "id": 19,
+                                            "name": "Producto 19",
+                                            "img": "assets/9deoro.png",
+                                            "hasStock": true,
+                                            "category": {
+                                                "id": 4,
+                                                "name": "Categoria 4"
+                                            }
+                                        },
+                                        "priceList": [
+                                            {
+                                                "id": 1,
+                                                "code": "CODE1",
+                                                "price": 30.0
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Sucursal Cordoba",
+                    "address": "Presidente roca 1800",
+                    "city": "Cordoba",
+                    "province": "Cordoba",
+                    "orders": [
+                        {
+                            "id": 45012,
+                            "total": 12500.0,
+                            "paymentOption": {
+                                "id": 1,
+                                "name": "Pago total",
+                                "percent": 100
+                            },
+                            "shipmentOption": {
+                                "id": 3,
+                                "name": "Envío urgente",
+                                "applyDiscount": true,
+                                "percent": 110
+                            },
+                            "stateOrder": {
+                                "id": 1,
+                                "name": "En proceso"
+                            },
+                            "branch": {
+                                "id": 1,
+                                "name": "Sucursal Carcarañá",
+                                "address": "Sarmiento 1800",
+                                "city": "Carcarañá",
+                                "province": "Santa Fe"
+                            },
+                            "itemOrders": [
+                                {
+                                    "quantity": 3,
+                                    "subtotal": 800.0,
+                                    "unitSale": {
+                                        "id": 1,
+                                        "name": "Caja 12 x 8",
+                                        "product": {
+                                            "id": 20,
+                                            "name": "Producto 20",
+                                            "img": "assets/9deoro.png",
+                                            "hasStock": true,
+                                            "category": {
+                                                "id": 5,
+                                                "name": "Categoria 5"
+                                            }
+                                        },
+                                        "priceList": [
+                                            {
+                                                "id": 1,
+                                                "code": "CODE1",
+                                                "price": 50.0
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "quantity": 10,
+                                    "subtotal": 8500.0,
+                                    "unitSale": {
+                                        "id": 2,
+                                        "name": "Caja 6x6",
+                                        "product": {
+                                            "id": 19,
+                                            "name": "Producto 19",
+                                            "img": "assets/9deoro.png",
+                                            "hasStock": true,
+                                            "category": {
+                                                "id": 4,
+                                                "name": "Categoria 4"
+                                            }
+                                        },
+                                        "priceList": [
+                                            {
+                                                "id": 1,
+                                                "code": "CODE1",
+                                                "price": 30.0
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Sucursal Rosario",
+                    "address": "Corrientes 2350",
+                    "city": "Rosario",
+                    "province": "Santa Fe",
+                    "orders": []
+                }
+            ]
+        }
+    ],
+    "sales": [
+        {
+            "id": 1,
+            "name": "Promocion 1",
+            "packings": [
+                {
+                    "id": 1,
+                    "name": "Caja 12 x 8",
+                    "product": {
+                        "id": 20,
+                        "name": "Producto 20",
+                        "img": "assets/9deoro.png",
+                        "hasStock": true,
+                        "category": {
+                            "id": 5,
+                            "name": "Categoria 5"
+                        },
+                        "priceList": [
+                            {
+                                "id": 1,
+                                "code": "CODE1",
+                                "price": 50.0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 6x6",
+                    "product": {
+                        "id": 19,
+                        "name": "Producto 19",
+                        "img": "assets/9deoro.png",
+                        "hasStock": true,
+                        "category": {
+                            "id": 4,
+                            "name": "Categoria 4"
+                        },
+                        "priceList": [
+                            {
+                                "id": 1,
+                                "code": "CODE1",
+                                "price": 30.0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Caja 12 x 8",
+                    "product": {
+                        "id": 13,
+                        "name": "Producto 13",
+                        "img": "assets/9deoro.png",
+                        "hasStock": true,
+                        "category": {
+                            "id": 5,
+                            "name": "Categoria 5"
+                        },
+                        "priceList": [
+                            {
+                                "id": 1,
+                                "code": "CODE1",
+                                "price": 500.0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Caja 8x6",
+                    "product": {
+                        "id": 15,
+                        "name": "Producto 15",
+                        "img": "assets/9deoro.png",
+                        "hasStock": true,
+                        "category": {
+                            "id": 2,
+                            "name": "Categoria 2"
+                        },
+                        "priceList": [
+                            {
+                                "id": 1,
+                                "code": "CODE1",
+                                "price": 120.0
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Promocion 2",
+            "packings": [
+                {
+                    "id": 5,
+                    "name": "Caja 12 x 8",
+                    "product": {
+                        "id": 17,
+                        "name": "Producto 17",
+                        "img": "assets/9deoro.png",
+                        "hasStock": true,
+                        "category": {
+                            "id": 1,
+                            "name": "Categoria 1"
+                        },
+                        "priceList": [
+                            {
+                                "id": 1,
+                                "code": "CODE1",
+                                "price": 500.0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Caja 12x8",
+                    "product": {
+                        "id": 7,
+                        "name": "Producto 7",
+                        "img": "assets/9deoro.png",
+                        "hasStock": true,
+                        "category": {
+                            "id": 4,
+                            "name": "Categoria 4"
+                        },
+                        "priceList": [
+                            {
+                                "id": 1,
+                                "code": "CODE1",
+                                "price": 300.0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "Caja 6 x 8",
+                    "product": {
+                        "id": 12,
+                        "name": "Producto 12",
+                        "img": "assets/9deoro.png",
+                        "hasStock": true,
+                        "category": {
+                            "id": 5,
+                            "name": "Categoria 5"
+                        },
+                        "priceList": [
+                            {
+                                "id": 1,
+                                "code": "CODE1",
+                                "price": 40.0
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Promocion 3",
+            "packings": [
+                {
+                    "id": 1,
+                    "name": "Caja 12 x 8",
+                    "product": {
+                        "id": 3,
+                        "name": "Producto 3",
+                        "img": "assets/9deoro.png",
+                        "hasStock": true,
+                        "category": {
+                            "id": 3,
+                            "name": "Categoria 3"
+                        },
+                        "priceList": [
+                            {
+                                "id": 1,
+                                "code": "CODE1",
+                                "price": 550.0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Caja 6x6",
+                    "product": {
+                        "id": 4,
+                        "name": "Producto 4",
+                        "img": "assets/9deoro.png",
+                        "hasStock": true,
+                        "category": {
+                            "id": 2,
+                            "name": "Categoria 2"
+                        },
+                        "priceList": [
+                            {
+                                "id": 1,
+                                "code": "CODE1",
+                                "price": 310.0
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
